@@ -1,0 +1,19 @@
+body{
+    background-color: #fdf4ea;
+    background-image: url("../../img/body_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    background-position: left right;
+    padding: 0 5%;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    background-color: #fff;
+    padding: 0 20px;
+    position: relative;
+    z-index: 1;
+    margin-bottom: 50px;
+}
