@@ -75,7 +75,17 @@
     border-color: #ffac35;
 }
 
-.slider img{
+.slider{
+    width: 80%;
+    height: 80%;
+}
+
+.slider div{
+    width: 100%;
+    height: 100%;
+}
+
+.slider div img{
     height: 100%;
     width: 100%;
 }
